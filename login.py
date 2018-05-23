@@ -7,3 +7,4 @@ str2 = wukong
 def index()
 	XXXX
 	print(1.0开发完毕)
+dev
